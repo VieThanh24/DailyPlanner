@@ -23,13 +23,17 @@ Các trang giao diện của App
 - Task List
 - Setting
 - Trang thống kê
+  
 ❌ III/ Các giao diện cơ bản mà App chưa có
-STT	Giao diện
+STT	Giao diện:
+
 1- Quên mật khẩu
 2	- Giao diện chỉnh sửa form chữ cho người dùng
+
 📷 IV/ Một số hình ảnh của App
 
 ⚒V/ Các công cụ hỗ trợ
+
 github--v1 flutter visual-studio-code-2019
 
 🔭 VI/ Phương hướng phát triển
