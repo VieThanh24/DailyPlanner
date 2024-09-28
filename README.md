@@ -1,5 +1,4 @@
 APP DAILY PLANNER
-airplane-take-off
 
 Chào mừng bạn đến với Ứng dụng quản lý thời gian!
 Bạn đã sẵn sàng thiết lập lịch trình chưa? Hãy để chúng tôi giúp bạn biến mọi lịch trình thành hiện thực.
@@ -15,8 +14,8 @@ Tạo ra một công cụ tiện ích giúp lên lịch các cuộc hẹn, công
 Tăng năng suất và sự tổ chức của người dùng bằng cách cung cấp các tính năng nhắc nhở và quản lý nhiệm vụ.
 
 👤II/ Thông tin thành viên:
-Số thứ tự	Họ và Tên	Account	Chức danh	Hình ảnh
-1	Mai Việt Thành	vietthanh24	Dev	Hình ảnh 3
+Số thứ tự	Họ và Tên	Account	Chức danh	
+1	Mai Việt Thành	vietthanh24	Dev	
 ✓ III/ Các trang giao diện của đồ án
 Các trang giao diện của App
 - Đăng nhập
