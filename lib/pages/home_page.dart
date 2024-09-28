@@ -39,7 +39,7 @@ class _Home_ScreenState extends State<Home_Screen> {
       ],
     ),
     // Trang Task (bạn có thể thay bằng một Widget khác cho trang này)
-    Center(child: TaskListScreen()),
+    Center(child: TaskStatisticsScreen()),
     // Trang Calendar
     Center(child: CalendarView()),
     // Trang Setting
